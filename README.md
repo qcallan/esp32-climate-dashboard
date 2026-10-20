@@ -3,6 +3,8 @@
 An IoT-based environmental monitoring system built using an ESP32 microcontroller, BME280 sensor, and dual OLED displays. 
 The system collects real-time environmental measurements, uploads them securely to a cloud database, and displays the data through a remotely accessible web dashboard.
 
+<img width="3608" height="1999" alt="IMG_4780" src="https://github.com/user-attachments/assets/5acd7ed1-ed57-45eb-bc04-f6372929eb8f" />
+
 **[View Live Dashboard](https://qcallan.github.io/esp32-climate-dashboard/)**
 
 *Dashboard login required.*
@@ -114,6 +116,8 @@ The dashboard provides:
 - Automatic data refresh every 60 seconds
 - Secure login and logout functionality
 - Responsive layouts for desktop and mobile devices
+
+  <img width="1794" height="967" alt="Screenshot 2026-10-19 at 11 51 16 PM" src="https://github.com/user-attachments/assets/2fa1e9d6-ae94-449c-9e44-e4554707d4d2" />
 
 **Live Website:** https://qcallan.github.io/esp32-climate-dashboard/
 
